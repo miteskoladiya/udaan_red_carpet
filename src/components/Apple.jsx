@@ -40,7 +40,7 @@ export function AppleCardsCarouselDemo() {
       "id": 2,
       "category": "Artist of the Year (Male)",
       "title": "A true creative genius!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",
       "selected_nominee_id": null,
       "nominees": [
         { "id": 201, "name": "Drake", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
@@ -53,8 +53,7 @@ export function AppleCardsCarouselDemo() {
       "id": 3,
       "category": "Artist of the Year (Female)",
       "title": "Master of the creative arts!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
-      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 301, "name": "Taylor Swift", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
         { "id": 302, "name": "Beyoncé", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
@@ -66,8 +65,7 @@ export function AppleCardsCarouselDemo() {
       "id": 4,
       "category": "Sports Person of the Year (Male)",
       "title": "An unstoppable sports champion!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
-      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 401, "name": "Lionel Messi", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
         { "id": 402, "name": "LeBron James", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
@@ -79,8 +77,7 @@ export function AppleCardsCarouselDemo() {
       "id": 5,
       "category": "Sports Person of the Year (Female)",
       "title": "A sports icon in the making!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
-      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 501, "name": "Serena Williams", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
         { "id": 502, "name": "Simone Biles", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
@@ -92,8 +89,7 @@ export function AppleCardsCarouselDemo() {
       "id": 6,
       "category": "Mr. Persona",
       "title": "The gentleman with unmatched style!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
-      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 601, "name": "Ryan Reynolds", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
         { "id": 602, "name": "Idris Elba", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
@@ -105,8 +101,7 @@ export function AppleCardsCarouselDemo() {
       "id": 7,
       "category": "Mrs. Persona",
       "title": "Elegance and grace combined!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
-      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 701, "name": "Gal Gadot", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
         { "id": 702, "name": "Blake Lively", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
@@ -118,8 +113,7 @@ export function AppleCardsCarouselDemo() {
       "id": 8,
       "category": "Rising Star (Male)",
       "title": "A future legend in the making!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
-      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 801, "name": "Timothée Chalamet", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
         { "id": 802, "name": "Austin Butler", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
@@ -131,8 +125,7 @@ export function AppleCardsCarouselDemo() {
       "id": 9,
       "category": "Rising Star (Female)",
       "title": "Shining bright with limitless potential!",
-      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
-      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 901, "name": "Florence Pugh", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
         { "id": 902, "name": "Jenna Ortega", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
