@@ -39,14 +39,14 @@ const FooterCopyright = () => {
 const FooterNav = () => {
   const aboutLinks = [
     { title: "Our Story", href: "/about" },
-    { title: "Team", href: "/team" },
-    { title: "Careers", href: "/careers" },
+    { title: "Team", href: "https://udaan.bvmfest.tech/team.php" },
+    // { title: "Careers", href: "/careers" },
   ];
 
   const socialLinks = [
-    { name: "Twitter", href: "https://twitter.com" },
-    { name: "Instagram", href: "https://instagram.com" },
-    { name: "LinkedIn", href: "https://linkedin.com" },
+    { name: "YouTube", href: "https://twitter.com" },
+    { name: "Instagram", href: "https://www.instagram.com/teamudaan?igsh-cWhnamloOWJsMDly" },
+    //{ name: "LinkedIn", href: "https://linkedin.com" },
   ];
 
   const moreLinks = [
@@ -72,7 +72,8 @@ const FooterColumn = ({ title, links, external = false }) => {
         <Link
           key={index}
           href={link.href}
-          target={external ? "_blank" : "_self"}
+          target="_blank"
+          //target={external ? "_blank" : "_self"}
           className="underline-offset-4 hover:underline hover:text-white"
         >
           {link.title || link.name}

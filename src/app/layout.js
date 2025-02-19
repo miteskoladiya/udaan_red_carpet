@@ -33,6 +33,7 @@ export default function RootLayout({ children }) {
       <html lang="en" data-qb-extension-installed="true"
 data-qb-installed="true">
         <body>
+          
           <Navbar />
           <Toaster position="top-center" />
           {children}
