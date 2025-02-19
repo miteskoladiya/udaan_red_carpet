@@ -12,11 +12,10 @@ if (!process.env.DATABASE_URL) {
 let isConnected = false;
 
 const connectDB = async () => {
-  if (isConnected) {
+  if (mongoose.connections[0].readyState) {
     console.log("MongoDB is already connected.");
     return;
   }
-
   try {
     await mongoose.connect(MONGODB_URI);
 

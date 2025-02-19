@@ -52,7 +52,7 @@ const VerticalDivider = () => (
 );
 
 const useTimer = (unit) => {
-  const [ref, animate] = useAnimate();
+  const [scope, animate] = useAnimate();
   const intervalRef = useRef(null);
   const timeRef = useRef(0);
   const [time, setTime] = useState(0);
@@ -74,14 +74,14 @@ const useTimer = (unit) => {
     else newTime = Math.floor((distance % MINUTE) / SECOND);
 
     if (newTime !== timeRef.current) {
-      await animate(ref.current, { y: ["0%", "-50%"], opacity: [1, 0] }, { duration: 0.3 });
+      await animate(scope.current, { y: ["0%", "-50%"], opacity: [1, 0] }, { duration: 0.3 });
       timeRef.current = newTime;
       setTime(newTime);
-      await animate(ref.current, { y: ["50%", "0%"], opacity: [0, 1] }, { duration: 0.3 });
+      await animate(scope.current, { y: ["50%", "0%"], opacity: [0, 1] }, { duration: 0.3 });
     }
   };
 
-  return { ref, time };
+  return { ref: scope, time };
 };
 
 export default ShiftingCountdown;

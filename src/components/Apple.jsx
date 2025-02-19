@@ -24,121 +24,121 @@ export function AppleCardsCarouselDemo() {
   
   const [data, setData] = useState([
     {
-      id: 1,  
+      id: 1,
       category: "Face of the Year",
       title: "The most charismatic face of the year!",
-      src: "/images/categories/Face_Of_The_Year.jpg",
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",
       selected_nominee_id: null,
       nominees: [
-        { id: 101, name: "Emma Watson", src: "/images/nominees/ambani.jpg" },
-        { id: 102, name: "Chris Hemsworth", src: "/images/nominees/Elon.jpg" },
-        { id: 103, name: "Zendaya", src: "/images/nominees/modi.jpg"},
-        { id: 104, name: "Timothée Chalamet", src: "/images/nominees/images1.jpg" },
+        { id: 101, name: "Emma Watson", src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966381/modi_fg6bxi.jpg" },
+        { id: 102, name: "Chris Hemsworth", src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966381/Elon_bf3z8v.jpg" },
+        { id: 103, name: "Zendaya", src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966380/images1_wuymlz.jpg" },
+        { id: 104, name: "Timothée Chalamet", src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966379/ambani_vxudzs.webp" },
       ],
     },
     {
-      id: 2,
-      category: "Artist of the Year (Male)",
-      title: "A true creative genius!",
-      src: "/images/categories/Artist_Of_The_Year_Male.jpg",
-      selected_nominee_id: null,
-      nominees: [
-        { id: 201, name: "Drake", src: "https://assets.aceternity.com/drake.jpg" },
-        { id: 202, name: "The Weeknd", src: "https://assets.aceternity.com/the-weeknd.jpg" },
-        { id: 203, name: "Kendrick Lamar", src: "https://assets.aceternity.com/kendrick-lamar.jpg" },
-        { id: 204, name: "Bad Bunny", src: "https://assets.aceternity.com/bad-bunny.jpg" },
-      ],
+      "id": 2,
+      "category": "Artist of the Year (Male)",
+      "title": "A true creative genius!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 201, "name": "Drake", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 202, "name": "The Weeknd", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 203, "name": "Kendrick Lamar", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 204, "name": "Bad Bunny", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
     {
-      id: 3,
-      category: "Artist of the Year (Female)",
-      title: "Master of the creative arts!",
-      src:"/images/categories/Artist_Of_The_Year_Female.jpg",
-      selected_nominee_id: null,
-      nominees: [
-        { id: 301, name: "Taylor Swift", src: "https://assets.aceternity.com/taylor-swift.jpg" },
-        { id: 302, name: "Beyoncé", src: "https://assets.aceternity.com/beyonce.jpg" },
-        { id: 303, name: "Ariana Grande", src: "https://assets.aceternity.com/ariana-grande.jpg" },
-        { id: 304, name: "Billie Eilish", src: "https://assets.aceternity.com/billie-eilish.jpg" },
-      ],
+      "id": 3,
+      "category": "Artist of the Year (Female)",
+      "title": "Master of the creative arts!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 301, "name": "Taylor Swift", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 302, "name": "Beyoncé", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 303, "name": "Ariana Grande", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 304, "name": "Billie Eilish", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
     {
-      id: 4,
-      category: "Sports Person of the Year (Male)",
-      title: "An unstoppable sports champion!",
-      src:"/images/categories/Sports_Person_Of_The_Year_Male.jpg",
-      selected_nominee_id: null,
-      nominees: [
-        { id: 401, name: "Lionel Messi", src: "https://assets.aceternity.com/messi.jpg" },
-        { id: 402, name: "LeBron James", src: "https://assets.aceternity.com/lebron-james.jpg" },
-        { id: 403, name: "Novak Djokovic", src: "https://assets.aceternity.com/djokovic.jpg" },
-        { id: 404, name: "Patrick Mahomes", src: "https://assets.aceternity.com/mahomes.jpg" },
-      ],
+      "id": 4,
+      "category": "Sports Person of the Year (Male)",
+      "title": "An unstoppable sports champion!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 401, "name": "Lionel Messi", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 402, "name": "LeBron James", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 403, "name": "Novak Djokovic", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 404, "name": "Patrick Mahomes", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
     {
-      id: 5,
-      category: "Sports Person of the Year (Female)",
-      title: "A sports icon in the making!",
-      src: "/images/categories/Sports_Person_Of_The_Year_Female.jpg",
-      selected_nominee_id: null,
-      nominees: [
-        { id: 501, name: "Serena Williams", src: "https://assets.aceternity.com/serena-williams.jpg" },
-        { id: 502, name: "Simone Biles", src: "https://assets.aceternity.com/simone-biles.jpg" },
-        { id: 503, name: "Naomi Osaka", src: "https://assets.aceternity.com/naomi-osaka.jpg" },
-        { id: 504, name: "Alex Morgan", src: "https://assets.aceternity.com/alex-morgan.jpg" },
-      ],
+      "id": 5,
+      "category": "Sports Person of the Year (Female)",
+      "title": "A sports icon in the making!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 501, "name": "Serena Williams", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 502, "name": "Simone Biles", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 503, "name": "Naomi Osaka", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 504, "name": "Alex Morgan", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
     {
-      id: 6,
-      category: "Mr. Persona",
-      title: "The gentleman with unmatched style!",
-      src: "/images/categories/Mr_Persona.jpg",
-      selected_nominee_id: null,
-      nominees: [
-        { id: 601, name: "Ryan Reynolds", src: "https://assets.aceternity.com/ryan-reynolds.jpg" },
-        { id: 602, name: "Idris Elba", src: "https://assets.aceternity.com/idris-elba.jpg" },
-        { id: 603, name: "Tom Hardy", src: "https://assets.aceternity.com/tom-hardy.jpg" },
-        { id: 604, name: "Michael B. Jordan", src: "https://assets.aceternity.com/michael-b-jordan.jpg" },
-      ],
+      "id": 6,
+      "category": "Mr. Persona",
+      "title": "The gentleman with unmatched style!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 601, "name": "Ryan Reynolds", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 602, "name": "Idris Elba", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 603, "name": "Tom Hardy", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 604, "name": "Michael B. Jordan", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
     {
-      id: 7,
-      category: "Mrs. Persona",
-      title: "Elegance and grace combined!",
-      src: "/images/categories/Miss_Persona.jpg",   
-      selected_nominee_id: null,
-      nominees: [
-        { id: 701, name: "Gal Gadot", src: "https://assets.aceternity.com/gal-gadot.jpg" },
-        { id: 702, name: "Blake Lively", src: "https://assets.aceternity.com/blake-lively.jpg" },
-        { id: 703, name: "Zoe Saldana", src: "https://assets.aceternity.com/zoe-saldana.jpg" },
-        { id: 704, name: "Lupita Nyong'o", src: "https://assets.aceternity.com/lupita-nyongo.jpg" },
-      ],
+      "id": 7,
+      "category": "Mrs. Persona",
+      "title": "Elegance and grace combined!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 701, "name": "Gal Gadot", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 702, "name": "Blake Lively", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 703, "name": "Zoe Saldana", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 704, "name": "Lupita Nyong'o", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
     {
-      id: 8,
-      category: "Rising Star (Male)",
-      title: "A future legend in the making!",
-      src: "/images/categories/Rising-Star_Man.jpg",
-      selected_nominee_id: null,
-      nominees: [
-        { id: 801, name: "Timothée Chalamet", src: "https://assets.aceternity.com/timothee-chalamet.jpg" },
-        { id: 802, name: "Austin Butler", src: "https://assets.aceternity.com/austin-butler.jpg" },
-        { id: 803, name: "Jacob Elordi", src: "https://assets.aceternity.com/jacob-elordi.jpg" },
-        { id: 804, name: "Paul Mescal", src: "https://assets.aceternity.com/paul-mescal.jpg" },
-      ],
+      "id": 8,
+      "category": "Rising Star (Male)",
+      "title": "A future legend in the making!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 801, "name": "Timothée Chalamet", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 802, "name": "Austin Butler", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 803, "name": "Jacob Elordi", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 804, "name": "Paul Mescal", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
     {
-      id: 9,
-      category: "Rising Star (Female)",
-      title: "Shining bright with limitless potential!",
-      src:"/images/categories/Rising-Star_Female.jpg",
-      selected_nominee_id: null,
-      nominees: [
-        { id: 901, name: "Florence Pugh", src: "https://assets.aceternity.com/florence-pugh.jpg" },
-        { id: 902, name: "Jenna Ortega", src: "https://assets.aceternity.com/jenna-ortega.jpg" },
-        { id: 903, name: "Anya Taylor-Joy", src: "https://assets.aceternity.com/anya-taylor-joy.jpg" },
-        { id: 904, name: "Millie Bobby Brown", src: "https://assets.aceternity.com/millie-bobby-brown.jpg" },
-      ],
+      "id": 9,
+      "category": "Rising Star (Female)",
+      "title": "Shining bright with limitless potential!",
+      "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg",
+      "selected_nominee_id": null,
+      "nominees": [
+        { "id": 901, "name": "Florence Pugh", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 902, "name": "Jenna Ortega", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 903, "name": "Anya Taylor-Joy", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+        { "id": 904, "name": "Millie Bobby Brown", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      ]
     },
   ]);
 
@@ -219,14 +219,7 @@ export function AppleCardsCarouselDemo() {
         </AlertDialog>
       </div>
 
-      {/* {data.map((item, i) => {
-  const selectedNominee = item.nominees.find(nominee => nominee.id === item.selected_nominee_id);
-  return (
-    <div key={i} className="text-white font-bold">
-      {selectedNominee ? selectedNominee.name : "Not selected"}
-    </div>
-  );
-})} */}
+
 
     </div>
   )

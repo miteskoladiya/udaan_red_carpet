@@ -30,7 +30,8 @@ export default function RootLayout({ children }) {
   
   return (
     <ClerkProvider frontendApi={process.env.NEXT_PUBLIC_CLERK_FRONTEND_API}>
-      <html lang="en">
+      <html lang="en" data-qb-extension-installed="true"
+data-qb-installed="true">
         <body>
           <Navbar />
           <Toaster position="top-center" />

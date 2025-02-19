@@ -10,8 +10,8 @@ async function insertPositionsAndNominees() {
     await connectDB();
 
     // First, clear existing data
-    await Position.deleteMany({});
-    await Nominee.deleteMany({});
+    //await Position.deleteMany({});
+    //await Nominee.deleteMany({});
 
     const filePath = path.resolve("positions.json");
     const positionsData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
@@ -27,7 +27,7 @@ async function insertPositionsAndNominees() {
           const newNominee = new Nominee({
             id: nominee.id,
             name: nominee.name,
-            position: position._id,
+            position: position.name,
             imageUrl: nominee.imageUrl,
             votes: 0 // Explicitly set initial votes
           });

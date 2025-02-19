@@ -1,84 +1,83 @@
 [
-    {
-      "name": "Face of the Year",
-      "nominees": [
-        { "id": 101, "name": "MacBook", "imageUrl": "https://assets.aceternity.com/macbook.png" },
-        { "id": 102, "name": "iPhone", "imageUrl": "https://assets.aceternity.com/iphone.png" },
-        { "id": 103, "name": "iPad", "imageUrl": "https://assets.aceternity.com/ipad.png" },
-        { "id": 104, "name": "Apple Watch", "imageUrl": "https://assets.aceternity.com/watch.png" }
-      ]
-    },
-    {
-      "name": "Artist of the Year (Male)",
-      "nominees": [
-        { "id": 201, "name": "AirPods", "imageUrl": "https://assets.aceternity.com/airpods.png" },
-        { "id": 202, "name": "Apple TV", "imageUrl": "https://assets.aceternity.com/apple-tv.png" },
-        { "id": 203, "name": "HomePod", "imageUrl": "https://assets.aceternity.com/homepod.png" },
-        { "id": 204, "name": "Magic Keyboard", "imageUrl": "https://assets.aceternity.com/magic-keyboard.png" }
-      ]
-    },
-    {
-      "name": "Artist of the Year (Female)",
-      "nominees": [
-        { "id": 301, "name": "Apple Pencil", "imageUrl": "https://assets.aceternity.com/apple-pencil.png" },
-        { "id": 302, "name": "iMac", "imageUrl": "https://assets.aceternity.com/imac.png" },
-        { "id": 303, "name": "Mac Mini", "imageUrl": "https://assets.aceternity.com/mac-mini.png" },
-        { "id": 304, "name": "Mac Studio", "imageUrl": "https://assets.aceternity.com/mac-studio.png" }
-      ]
-    },
-    {
-      "name": "Sports Person of the Year (Male)",
-      "nominees": [
-        { "id": 401, "name": "Mac Pro", "imageUrl": "https://assets.aceternity.com/mac-pro.png" },
-        { "id": 402, "name": "iPhone SE", "imageUrl": "https://assets.aceternity.com/iphone-se.png" },
-        { "id": 403, "name": "iPhone Pro", "imageUrl": "https://assets.aceternity.com/iphone-pro.png" },
-        { "id": 404, "name": "Apple Vision Pro", "imageUrl": "https://assets.aceternity.com/apple-vision-pro.png" }
-      ]
-    },
-    {
-      "name": "Sports Person of the Year (Female)",
-      "nominees": [
-        { "id": 501, "name": "Apple Car", "imageUrl": "https://assets.aceternity.com/apple-car.png" },
-        { "id": 502, "name": "MacBook Air", "imageUrl": "https://assets.aceternity.com/macbook-air.png" },
-        { "id": 503, "name": "MacBook Pro", "imageUrl": "https://assets.aceternity.com/macbook-pro.png" },
-        { "id": 504, "name": "Thunderbolt Display", "imageUrl": "https://assets.aceternity.com/thunderbolt-display.png" }
-      ]
-    },
-    {
-      "name": "Mr. Persona",
-      "nominees": [
-        { "id": 601, "name": "Magic Mouse", "imageUrl": "https://assets.aceternity.com/magic-mouse.png" },
-        { "id": 602, "name": "iPhone 15", "imageUrl": "https://assets.aceternity.com/iphone-15.png" },
-        { "id": 603, "name": "Apple VR", "imageUrl": "https://assets.aceternity.com/apple-vr.png" },
-        { "id": 604, "name": "AirPods Max", "imageUrl": "https://assets.aceternity.com/airpods-max.png" }
-      ]
-    },
-    {
-      "name": "Mrs. Persona",
-      "nominees": [
-        { "id": 701, "name": "iPad Mini", "imageUrl": "https://assets.aceternity.com/ipad-mini.png" },
-        { "id": 702, "name": "iPad Air", "imageUrl": "https://assets.aceternity.com/ipad-air.png" },
-        { "id": 703, "name": "MacBook M3", "imageUrl": "https://assets.aceternity.com/macbook-m3.png" },
-        { "id": 704, "name": "Apple Smart Keyboard", "imageUrl": "https://assets.aceternity.com/smart-keyboard.png" }
-      ]
-    },
-    {
-      "name": "Rising Star (Male)",
-      "nominees": [
-        { "id": 801, "name": "MacBook Retina", "imageUrl": "https://assets.aceternity.com/macbook-retina.png" },
-        { "id": 802, "name": "Mac Mini M2", "imageUrl": "https://assets.aceternity.com/mac-mini-m2.png" },
-        { "id": 803, "name": "Apple Magic Trackpad", "imageUrl": "https://assets.aceternity.com/magic-trackpad.png" },
-        { "id": 804, "name": "iPad Pro", "imageUrl": "https://assets.aceternity.com/ipad-pro.png" }
-      ]
-    },
-    {
-      "name": "Rising Star (Female)",
-      "nominees": [
-        { "id": 901, "name": "iPhone 14 Pro", "imageUrl": "https://assets.aceternity.com/iphone-14-pro.png" },
-        { "id": 902, "name": "Apple Studio Display", "imageUrl": "https://assets.aceternity.com/studio-display.png" },
-        { "id": 903, "name": "Mac Studio M2", "imageUrl": "https://assets.aceternity.com/mac-studio-m2.png" },
-        { "id": 904, "name": "Apple AirTag", "imageUrl": "https://assets.aceternity.com/airtag.png" }
-      ]
-    }
-  ]
-  
+  {
+    "name": "Face of the Year",
+    "nominees": [
+      { "id": 101, "name": "Emma Watson", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 102, "name": "Chris Hemsworth", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 103, "name": "Zendaya", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 104, "name": "Timothée Chalamet", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Artist of the Year (Male)",
+    "nominees": [
+      { "id": 201, "name": "Drake", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 202, "name": "The Weeknd", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 203, "name": "Kendrick Lamar", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 204, "name": "Bad Bunny", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Artist of the Year (Female)",
+    "nominees": [
+      { "id": 301, "name": "Taylor Swift", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 302, "name": "Beyoncé", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 303, "name": "Ariana Grande", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 304, "name": "Billie Eilish", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Sports Person of the Year (Male)",
+    "nominees": [
+      { "id": 401, "name": "Lionel Messi", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 402, "name": "LeBron James", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 403, "name": "Novak Djokovic", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 404, "name": "Patrick Mahomes", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Sports Person of the Year (Female)",
+    "nominees": [
+      { "id": 501, "name": "Serena Williams", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 502, "name": "Simone Biles", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 503, "name": "Naomi Osaka", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 504, "name": "Alex Morgan", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Mr. Persona",
+    "nominees": [
+      { "id": 601, "name": "Ryan Reynolds", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 602, "name": "Idris Elba", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 603, "name": "Tom Hardy", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 604, "name": "Michael B. Jordan", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Mrs. Persona",
+    "nominees": [
+      { "id": 701, "name": "Gal Gadot", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 702, "name": "Blake Lively", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 703, "name": "Zoe Saldana", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 704, "name": "Lupita Nyong'o", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Rising Star (Male)",
+    "nominees": [
+      { "id": 801, "name": "Timothée Chalamet", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 802, "name": "Austin Butler", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 803, "name": "Jacob Elordi", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 804, "name": "Paul Mescal", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  },
+  {
+    "name": "Rising Star (Female)",
+    "nominees": [
+      { "id": 901, "name": "Florence Pugh", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 902, "name": "Jenna Ortega", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 903, "name": "Anya Taylor-Joy", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
+      { "id": 904, "name": "Millie Bobby Brown", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+    ]
+  }
+]

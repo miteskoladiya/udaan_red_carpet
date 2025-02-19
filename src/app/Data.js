@@ -6,8 +6,8 @@ export const data = [
         {
           "id": 101,
           "name": "Aarav Sharma",
-          "description": "Confidence is not ‘they will like me.’ Confidence is ‘I’ll be fine if they don’t.’",
-          "image": "https://randomuser.me/api/portraits/men/1.jpg"
+          "description": "Confidence is not 'they will like me.' Confidence is 'I'll be fine if they don't.'",
+          "imageUrl": `https://res.cloudinary.com/${process.env.CLOUDINARY_CLOUD_NAME}/image/upload/v1/nominees/aarav-sharma`
         },
         {
           "id": 102,
