@@ -52,7 +52,7 @@ export function AppleCardsCarouselDemo2() {
     },
     {
       "id": 4,
-      "category": "Mrs. Persona",
+      "category": "Ms. Persona",
       "title": "Elegance and grace combined!",
       src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966411/Miss_Persona_vqpgtv.jpg",
       "selected_nominee_id": null,
@@ -60,7 +60,7 @@ export function AppleCardsCarouselDemo2() {
         { "id": 401, "name": "Diya Mehta", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004405/diya_tumpjv.jpg" },
         { "id": 402, "name": "Drashti Prajapati", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004422/drashti_pcqe1m.jpg" },
         { "id": 403, "name": "Isha Bathwar", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004430/isha_t35yuy.jpg" },
-        { "id": 404, "name": "Kaavya Jethwa", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004432/kavya_blmmfs.jpg" }
+        { "id": 404, "name": "Kavyaa Jethwa", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004432/kavya_blmmfs.jpg" }
       ]
     },
     {

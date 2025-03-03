@@ -38,28 +38,28 @@ const FooterCopyright = () => {
 
 const FooterNav = () => {
   const aboutLinks = [
-    { title: "Our Story", href: "/about" },
+    // { title: "Our Story", href: "/about" },
     { title: "Team", href: "https://udaan.bvmfest.tech/team.php" },
     // { title: "Careers", href: "/careers" },
   ];
 
   const socialLinks = [
-    { name: "YouTube", href: "https://twitter.com" },
+    { name: "YouTube", href: "https://youtube.com/@createudaan?si=J80Wcq1uMEadbg--" },
     { name: "Instagram", href: "https://www.instagram.com/teamudaan?igsh-cWhnamloOWJsMDly" },
     //{ name: "LinkedIn", href: "https://linkedin.com" },
   ];
 
-  const moreLinks = [
-    { title: "Privacy Policy", href: "/privacy" },
-    { title: "Terms of Service", href: "/terms" },
-    { title: "Support", href: "/support" },
-  ];
+  // const moreLinks = [
+  //   { title: "Privacy Policy", href: "/privacy" },
+  //   { title: "Terms of Service", href: "/terms" },
+  //   { title: "Support", href: "/support" },
+  // ];
 
   return (
     <div className="flex shrink-0 gap-20">
-      <FooterColumn title="About" links={aboutLinks} />
+      {/* <FooterColumn title="About" links={aboutLinks} /> */}
       <FooterColumn title="Socials" links={socialLinks} external />
-      <FooterColumn title="More" links={moreLinks} />
+      {/* <FooterColumn title="More" links={moreLinks} /> */}
     </div>
   );
 };
