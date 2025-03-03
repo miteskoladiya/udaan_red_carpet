@@ -12,8 +12,8 @@ async function insertPositionsAndNominees() {
     await connectDB();
 
     // First, clear existing data
-    await Position.deleteMany({});
-    await Nominee.deleteMany({});
+    //await Position.deleteMany({});
+    //await Nominee.deleteMany({});
   
     const filePath = path.resolve("positions.json");
     const positionsData = JSON.parse(fs.readFileSync(filePath, "utf-8"));

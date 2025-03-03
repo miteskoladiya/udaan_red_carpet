@@ -17,7 +17,7 @@ export function AppleCardsCarouselDemo2() {
       "id": 1,
       "category": "Artist of the Year (Male)",
       "title": "A true creative genius!",
-      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1741009842/WhatsApp_Image_2025-03-03_at_15.12.43_6f78bf25_oo1mf2.jpg",
       "selected_nominee_id": null,
       "nominees": [
         { "id": 101, "name": "Haarit Buch", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005218/haarit_uf9uxg.jpg" },
@@ -30,7 +30,7 @@ export function AppleCardsCarouselDemo2() {
       "id": 2,
       "category": "Artist of the Year (Female)",
       "title": "Master of the creative arts!",
-      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1741009708/WhatsApp_Image_2025-03-03_at_15.11.29_518acd54_zqu71k.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 201, "name": "Dwitiya Vasavada", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005443/dwititya_iwrbn8.jpg" },
         { "id": 202, "name": "Khushi Pandey", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005439/khushi_va9apx.jpg" },
@@ -42,7 +42,7 @@ export function AppleCardsCarouselDemo2() {
       "id": 3,
       "category": "Mr. Persona",
       "title": "The gentleman with unmatched style!",
-      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1741010037/WhatsApp_Image_2025-03-03_at_19.23.47_ba9aec5b_eqyqzx.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 301, "name": "Manan Patel", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741006455/MananPatel_uycauh.jpg" },
         { "id": 302, "name": "Mihir Timbadia", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004643/mihir_rqboeb.jpg" },
@@ -79,7 +79,7 @@ export function AppleCardsCarouselDemo2() {
       "id": 6,
       "category": "Sports Person of the Year (Female)",
       "title": "A sports icon in the making!",
-      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1741009889/WhatsApp_Image_2025-03-03_at_15.12.44_ea195ec3_ahtwoe.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 601, "name": "Bhakti Gohel", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005702/bhakti_mmyvwy.jpg" },
         { "id": 602, "name": "Purva Thanki", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005706/Purva_Thanki_pgrw7u.jpg" },
@@ -91,7 +91,7 @@ export function AppleCardsCarouselDemo2() {
       "id": 7,
       "category": "Rising Star",
       "title": "A future legend in the making!",
-      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",      "selected_nominee_id": null,
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1741009990/WhatsApp_Image_2025-03-03_at_19.23.01_17fc107c_hccljx.jpg",      "selected_nominee_id": null,
       "nominees": [
         { "id": 701, "name": "Vraj Upadhyay", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005035/Vraj_Upadhyay_g3gr8r.jpg" },
         { "id": 702, "name": "Drashti Shah", "src": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005029/drashti_shah_acnu7f.jpg" },
@@ -103,7 +103,7 @@ export function AppleCardsCarouselDemo2() {
       id: 8,
       category: "Face of the Year",
       title: "The most charismatic face of the year!",
-      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1739966420/Sports_Person_Of_The_Year_Male_e4h4b7.jpg",
+      src: "https://res.cloudinary.com/dezrdipur/image/upload/v1741009941/WhatsApp_Image_2025-03-03_at_19.21.27_77c851ef_x33uk7.jpg",
       selected_nominee_id: null,
       nominees: [
         { id: 801, name: "Arunika Ghosh", src: "https://res.cloudinary.com/dezrdipur/image/upload/v1741004216/Arunika_Ghosh_nivx4g.jpg" },
