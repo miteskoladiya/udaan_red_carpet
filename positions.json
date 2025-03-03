@@ -1,74 +1,74 @@
 [
   {
-    "name": "Face of the Year",
-    "nominees": [
-      { "id": 101, "name": "Emma Watson", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 102, "name": "Chris Hemsworth", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 103, "name": "Zendaya", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 104, "name": "Timothée Chalamet", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
-    ]
-  },
-  {
     "name": "Artist of the Year (Male)",
     "nominees": [
-      { "id": 201, "name": "Drake", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 202, "name": "The Weeknd", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 203, "name": "Kendrick Lamar", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 204, "name": "Bad Bunny", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      { "id": 101, "name": "Haarit Buch", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005218/haarit_uf9uxg.jpg" },
+      { "id": 102, "name": "Dhruv Patel", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005215/dhruv_zt0ls3.jpg" },
+      { "id": 103, "name": "Dev Patel", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005394/dev_gvnyqd.jpg" },
+      { "id": 104, "name": "Het Jain", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005220/het_xxbdv6.jpg" }
     ]
   },
   {
     "name": "Artist of the Year (Female)",
     "nominees": [
-      { "id": 301, "name": "Taylor Swift", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 302, "name": "Beyoncé", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 303, "name": "Ariana Grande", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 304, "name": "Billie Eilish", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      { "id": 201, "name": "Dwitiya Vasavada", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005443/dwititya_iwrbn8.jpg" },
+      { "id": 202, "name": "Khushi Pandey", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005439/khushi_va9apx.jpg" },
+      { "id": 203, "name": "Priyanshi Gamit", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005437/Priyanshi_Gamit_23ce368_fulhvd.jpg" },
+      { "id": 204, "name": "Heer Patel", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005441/heer_drrrcg.jpg" }
+    ]
+  },
+  {
+    "name": "Face of the Year",
+    "nominees": [
+      { "id": 801, "name": "Arunika Ghosh", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004216/Arunika_Ghosh_nivx4g.jpg" },
+      { "id": 802, "name": "Yash Luhar", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741006101/WhatsApp_Image_2025-03-03_at_18.16.43_41bdfc90_mirtyq.jpg" },
+      { "id": 803, "name": "Kankana Majumder", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004229/Kankana_pl35ay.jpg" },
+      { "id": 804, "name": "Krisha Kansagra", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004232/krisha_lfiua1.jpg" }
     ]
   },
   {
     "name": "Sports Person of the Year (Male)",
     "nominees": [
-      { "id": 401, "name": "Lionel Messi", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 402, "name": "LeBron James", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 403, "name": "Novak Djokovic", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 404, "name": "Patrick Mahomes", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      { "id": 501, "name": "Parth Baraiya", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005623/parth_dwsc4e.jpg" },
+      { "id": 502, "name": "Yash Satasiya", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005615/yash_jlwibp.jpg" },
+      { "id": 503, "name": "Avish Patel", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005626/aavish_chjeu4.jpg" },
+      { "id": 504, "name": "Siddham Varia", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005620/siddham_mnt91n.jpg" }
     ]
   },
   {
     "name": "Sports Person of the Year (Female)",
     "nominees": [
-      { "id": 501, "name": "Serena Williams", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 502, "name": "Simone Biles", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 503, "name": "Naomi Osaka", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 504, "name": "Alex Morgan", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      { "id": 601, "name": "Bhakti Gohel", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005702/bhakti_mmyvwy.jpg" },
+      { "id": 602, "name": "Purva Thanki", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005706/Purva_Thanki_pgrw7u.jpg" },
+      { "id": 603, "name": "Shrushti Damor", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005709/Shrushti_Damor_22CE003_Civil_3rd_Year_sngrh4.jpg" },
+      { "id": 604, "name": "Yashvi Sevak", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741006105/WhatsApp_Image_2025-03-03_at_18.17.56_e92dabac_igwhak.jpg" }
     ]
   },
   {
     "name": "Mr. Persona",
     "nominees": [
-      { "id": 601, "name": "Ryan Reynolds", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 602, "name": "Idris Elba", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 603, "name": "Tom Hardy", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 604, "name": "Michael B. Jordan", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      { "id": 301, "name": "Manan Patel", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741006455/MananPatel_uycauh.jpg" },
+      { "id": 302, "name": "Mihir Timbadia", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004643/mihir_rqboeb.jpg" },
+      { "id": 303, "name": "Ankit Singh", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004645/Ankit_Singhjpg_qb32gy.jpg" },
+      { "id": 304, "name": "Nidhish Tomar", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005966/nidhish_pidbjg.png" }
     ]
   },
   {
     "name": "Mrs. Persona",
     "nominees": [
-      { "id": 701, "name": "Gal Gadot", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 702, "name": "Blake Lively", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 703, "name": "Zoe Saldana", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 704, "name": "Lupita Nyong'o", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      { "id": 401, "name": "Diya Mehta", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004405/diya_tumpjv.jpg" },
+      { "id": 402, "name": "Drashti Prajapati", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004422/drashti_pcqe1m.jpg" },
+      { "id": 403, "name": "Isha Bathwar", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004430/isha_t35yuy.jpg" },
+      { "id": 404, "name": "Kaavya Jethwa", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741004432/kavya_blmmfs.jpg" }
     ]
   },
   {
-    "name": "Rising Star (Male)",
+    "name": "Rising Star",
     "nominees": [
-      { "id": 801, "name": "Timothée Chalamet", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 802, "name": "Austin Butler", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 803, "name": "Jacob Elordi", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" },
-      { "id": 804, "name": "Paul Mescal", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1739967710/demo_llzqc5.jpg" }
+      { "id": 701, "name": "Vraj Upadhyay", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005035/Vraj_Upadhyay_g3gr8r.jpg" },
+      { "id": 702, "name": "Drashti Shah", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005029/drashti_shah_acnu7f.jpg" },
+      { "id": 703, "name": "Chintan Jadav", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005023/Chintan_Jadav_22CE080_orqevr.png" },
+      { "id": 704, "name": "Jiya Patel", "imageUrl": "https://res.cloudinary.com/dezrdipur/image/upload/v1741005032/jiya_oyyori.jpg" }
     ]
   },
   {

@@ -5,14 +5,16 @@ import path from "path";
 import { Position, Nominee } from "../model/User.js";
 import connectDB from "../lib/db.js";
 
+
+
 async function insertPositionsAndNominees() {
   try {
     await connectDB();
 
     // First, clear existing data
-    //await Position.deleteMany({});
-    //await Nominee.deleteMany({});
-
+    await Position.deleteMany({});
+    await Nominee.deleteMany({});
+  
     const filePath = path.resolve("positions.json");
     const positionsData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
